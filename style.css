@@ -1,0 +1,43 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    background-color: rgb(177, 235, 253);
+}
+
+.header_div{
+    background-color: rgb(217, 251, 255);
+    color: teal;
+    
+}
+
+.header_div img{
+    width: 100px;
+}
+
+.cam_div{
+    background-color: rgb(208, 192, 252);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px dotted rgb(167, 248, 231);
+}
+
+.cam_div label{
+    background-color: rgb(255, 151, 220);
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow:5px 5px 18px rgb(255, 255, 255);
+}
+
+#cam{
+    border: 2px dotted rgb(208, 192, 252);
+    width:310px;
+    height:300px;
+    box-shadow:5px 5px 18px rgb(255, 255, 255);
+}
+
+.cam_div button{
+    width:310px;
+    box-shadow:5px 5px 18px rgb(255, 255, 255);
+    font-size:16px;
+    border: 1px solid;
+}
